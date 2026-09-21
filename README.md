@@ -10,7 +10,7 @@
 <h2>👨‍💻 System Administration projects</h2>
 
 - <b>Active Directory Lab</b>
-  - [User and Account Management](https://github.com/EspoirBlack/AD_lab)
+  - [User and Account Management](https://github.com/EspoirBlack/ActiveDirectoryLab)
 
 <h2>👨‍💻 Cybersecurity projects</h2>
 
