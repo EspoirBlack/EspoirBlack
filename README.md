@@ -11,10 +11,50 @@
 
 ---
 
-### `$ whoami`
+### `whoami`
 
 ```text
 > Mumbere Espoir
 > Network & Cybersecurity Graduate
 > Building practical projects in network security, SOC operations, and automation
 > Currently: studying for CCNA & CompTIA Security+ | building a Network & Cybersecurity oriented home lab
+```
+---
+
+### `About Me`
+```text
+I'm a networking and cybersecurity graduate who learns by building and breaking things.
+
+My focus areas:
+
+🌐 Networking — routing & switching, VLANs, OSPF, BGP, ACLs, packet analysis
+🛡️ Security — firewalls, IDS/IPS, SIEM, threat detection, log analysis
+🐍 Automation — Python and Bash for network and security tasks
+
+I document every project so the work is reproducible and the reasoning is clear.
+```
+### `Tech Stack & Tools`
+- Networking
+  <p><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat" />
+  <img src="https://img.shields.io/badge/OSPF%20%7C%20BGP-4B0082?style=flat" /></p>
+- Security
+  <p><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-0054A6?style=flat"/></p>
+- Programming & automation
+  <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></p>
+
+### `Featured Projects`
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| Networking Labs| Multi-lab: VLANs, inter VLAN routing, OSPF, ACLs, NAT | Packet tracer, GNS3 |
+| Cybersecurity Labs | SIEM + IDS lab with detection rules and incident write-ups | Wazuh, Suricata |
+| PCAP-Analysis | Network forensics write-ups from real malware traffic captures | Wireshark, tshark |
+| Net-Automation | Python scripts for config backup and device auditing | Python, Netmiko |
+| <a href="https://github.com/EspoirBlack/sigma">Final Year Project</a> | Security Information Gathering & Monitoring Tool designed for junior SOC analysts | Python |
