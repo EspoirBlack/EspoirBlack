@@ -54,8 +54,8 @@ I document every project so the work is reproducible and the reasoning is clear.
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| <a href="https://github.com/EspoirBlack/sigma">Networking Labs</a>| Multi-lab: VLANs, inter VLAN routing, OSPF, ACLs, NAT | Packet tracer, GNS3 |
-| <a href="https://github.com/EspoirBlack/sigma">Cybersecurity Labs</a> | SIEM + IDS lab with detection rules and incident write-ups | Wazuh, Suricata |
-| <a href="https://github.com/EspoirBlack/sigma">>PCAP-Analysis</a | Network forensics write-ups from real malware traffic captures | Wireshark, tshark |
-| <a href="https://github.com/EspoirBlack/sigma">Net-Automation</a> | Python scripts for config backup and device auditing | Python, Netmiko |
+| <a href="https://github.com/EspoirBlack">Networking Labs</a>| Multi-lab: VLANs, inter VLAN routing, OSPF, ACLs, NAT | Packet tracer, GNS3 |
+| <a href="https://github.com/EspoirBlack">Cybersecurity Labs</a> | SIEM + IDS lab with detection rules and incident write-ups | Wazuh, Suricata |
+| <a href="https://github.com/EspoirBlack">PCAP-Analysis</a> | Network forensics write-ups from real malware traffic captures | Wireshark, tshark |
+| <a href="https://github.com/EspoirBlack">Net-Automation</a> | Python scripts for config backup and device auditing | Python, Netmiko |
 | <a href="https://github.com/EspoirBlack/sigma">Final Year Project(SIGMA)</a> | Security Information Gathering & Monitoring Tool designed for junior SOC analysts | Python |
