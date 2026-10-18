@@ -54,7 +54,7 @@ I document every project so the work is reproducible and the reasoning is clear.
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| <a href="https://github.com/EspoirBlack">Networking Labs</a>| Multi-lab: VLANs, inter VLAN routing, OSPF, ACLs, NAT | Packet tracer, GNS3 |
+| <a href="https://github.com/EspoirBlack/ActiveDirectoryLab">Networking Labs</a>| Multi-lab: VLANs, inter VLAN routing, OSPF, ACLs, NAT | Packet tracer, GNS3 |
 | <a href="https://github.com/EspoirBlack">Cybersecurity Labs</a> | SIEM + IDS lab with detection rules and incident write-ups | Wazuh, Suricata |
 | <a href="https://github.com/EspoirBlack">PCAP-Analysis</a> | Network forensics write-ups from real malware traffic captures | Wireshark, tshark |
 | <a href="https://github.com/EspoirBlack">Net-Automation</a> | Python scripts for config backup and device auditing | Python, Netmiko |
