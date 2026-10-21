@@ -58,4 +58,4 @@ I document every project so the work is reproducible and the reasoning is clear.
 | <a href="https://github.com/EspoirBlack">Cybersecurity Labs</a> | SIEM + IDS lab with detection rules and incident write-ups | Wazuh, Suricata |
 | <a href="https://github.com/EspoirBlack">PCAP-Analysis</a> | Network forensics write-ups from real malware traffic captures | Wireshark, tshark |
 | <a href="https://github.com/EspoirBlack">Net-Automation</a> | Python scripts for config backup and device auditing | Python, Netmiko |
-| <a href="https://github.com/EspoirBlack/sigma">Final Year Project(SIGMA)</a> | Security Information Gathering & Monitoring Tool designed for junior SOC analysts | Python |
+| <a href="https://github.com/EspoirBlack/SIGMA_project">Final Year Project(SIGMA)</a> | Security Information Gathering & Monitoring Tool designed for junior SOC analysts | Python |
