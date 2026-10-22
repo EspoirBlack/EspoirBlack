@@ -54,8 +54,8 @@ I document every project so the work is reproducible and the reasoning is clear.
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| <a href="https://github.com/EspoirBlack/ActiveDirectoryLab">Networking Labs</a>| Multi-lab: VLANs, inter VLAN routing, OSPF, ACLs, NAT | Packet tracer, GNS3 |
+| <a href="https://github.com/EspoirBlack/gns3-nat-dhcp-lab">NAT & DHCP Configuration</a>| DHCP Server and NAT configurations demonstrating how an entire organization's network can be connected to the internet | GNS3, VirtualBox |
 | <a href="https://github.com/EspoirBlack">Cybersecurity Labs</a> | SIEM + IDS lab with detection rules and incident write-ups | Wazuh, Suricata |
 | <a href="https://github.com/EspoirBlack">PCAP-Analysis</a> | Network forensics write-ups from real malware traffic captures | Wireshark, tshark |
 | <a href="https://github.com/EspoirBlack">Net-Automation</a> | Python scripts for config backup and device auditing | Python, Netmiko |
-| <a href="https://github.com/EspoirBlack/SIGMA_project">Final Year Project(SIGMA)</a> | Security Information Gathering & Monitoring Tool designed for junior SOC analysts | Python |
+| <a href="https://github.com/EspoirBlack/SIGMA_project">Final Year Project (SIGMA)</a> | Security Information Gathering & Monitoring Tool designed for junior SOC analysts | Python |
