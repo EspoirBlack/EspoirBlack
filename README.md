@@ -43,7 +43,8 @@ I document every project so the work is reproducible and the reasoning is clear.
   <p><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-0054A6?style=flat"/></p>
+  <img src="https://img.shields.io/badge/Wazuh-0054A6?style=flat"/>
+  <img src="https://img.shields.io/badge/Fortigate-F05032?style=flat&logo=fortinet&logoColor=white" /></p>
 - Programming & automation
   <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
