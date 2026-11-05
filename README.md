@@ -57,6 +57,6 @@ I document every project so the work is reproducible and the reasoning is clear.
 | --- | --- | --- |
 | <a href="https://github.com/EspoirBlack/gns3-nat-dhcp-lab">NAT & DHCP Configuration</a>| DHCP Server and NAT configurations demonstrating how an entire organization's network can be connected to the internet | GNS3, VirtualBox |
 | <a href="https://github.com/EspoirBlack/fortigate-dmz-segmentation-lab">FortiGate DMZ and Segmentation</a> | This project demonstrates the deployment of FortiGate Next-generation firewall | FortiGate Firewall, vmware |
-| <a href="https://github.com/EspoirBlack">PCAP-Analysis</a> | Network forensics write-ups from real malware traffic captures | Wireshark, tshark |
+| <a href="https://github.com/EspoirBlack/fortigate-traffic-auditing">App Control & Advanced Traffic Auditing</a> | this project demonstrates how to configure a Next-Generation Firewall for advanced threat detection. | Fortigate firewall, vmware |
 | <a href="https://github.com/EspoirBlack">Net-Automation</a> | Python scripts for config backup and device auditing | Python, Netmiko |
 | <a href="https://github.com/EspoirBlack/SIGMA_project">Final Year Project (SIGMA)</a> | Security Information Gathering & Monitoring Tool designed for junior SOC analysts | Python |
